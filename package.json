@@ -1,6 +1,6 @@
 {
   "name": "mark-agent-releases",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "MARK-0 AI Agent CLI (Official Closed Source Wrapper)",
   "bin": {
     "mark": "bin/index.js"
