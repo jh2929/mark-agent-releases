@@ -14,7 +14,7 @@ echo "Descargando binario seguro desde GitHub Releases..."
 mkdir -p "$BIN_DIR"
 
 # URL directa al ejecutable en el nuevo repositorio de releases públicas
-BINARY_URL="https://github.com/jh2929/mark-agent-releases/releases/latest/download/mark"
+BINARY_URL="https://github.com/jh2929/mark-agent-cli/releases/latest/download/mark"
 
 if ! curl -# -L "$BINARY_URL" -o "$BIN_DIR/$ALIAS_NAME"; then
     echo "Error: No se pudo descargar el binario. Verifica tu conexión a internet."

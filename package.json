@@ -1,5 +1,5 @@
 {
-  "name": "mark-agent-releases",
+  "name": "mark-agent-cli",
   "version": "1.0.3",
   "description": "MARK-0 AI Agent CLI (Official Closed Source Wrapper)",
   "bin": {
@@ -10,11 +10,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jh2929/mark-agent-releases.git"
+    "url": "git+https://github.com/jh2929/mark-agent-cli.git"
   },
   "license": "Proprietary",
   "bugs": {
-    "url": "https://github.com/jh2929/mark-agent-releases/issues"
+    "url": "https://github.com/jh2929/mark-agent-cli/issues"
   },
-  "homepage": "https://github.com/jh2929/mark-agent-releases#readme"
+  "homepage": "https://github.com/jh2929/mark-agent-cli#readme"
 }

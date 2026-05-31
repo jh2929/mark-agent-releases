@@ -28,7 +28,7 @@ This repository hosts the official precompiled binaries and installation scripts
 You can install MARK-0 instantly on any compatible Linux/macOS machine using this simple one-liner command:
 
 ```bash
-curl -sSL https://raw.githubusercontent.com/jh2929/mark-agent-releases/main/install.sh | bash
+curl -sSL https://raw.githubusercontent.com/jh2929/mark-agent-cli/main/install.sh | bash
 ```
 
 ### 📦 Method 2: NPM / PNPM
@@ -37,13 +37,13 @@ Alternatively, you can install the CLI globally using your favorite Node package
 
 ```bash
 # Using NPM
-npm install -g mark-agent-releases
+npm install -g mark-agent-cli
 
 # Using PNPM
-pnpm add -g mark-agent-releases
+pnpm add -g mark-agent-cli
 
 # Using Yarn
-yarn global add mark-agent-releases
+yarn global add mark-agent-cli
 ```
 
 ---
